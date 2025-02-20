@@ -1,0 +1,4 @@
+Sitemap: https://blaisep.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: blaisep.github.io
