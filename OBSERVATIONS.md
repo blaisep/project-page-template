@@ -24,5 +24,7 @@
 - Longer rotations (5 mins now)?
 - Why Static pages: 
 Static websites are safer, use fewer resources, and avoid vendor and platform lock-in. You can host a Nikola website on any web server, big or small.
+- On first unsucessful deploy, Nikola has a nice CTA in the error message:
+ Looks like this is the first time you deployed this site. Let us know you are using Nikola at <https://users.getnikola.com/add/> if you want!
 
 
