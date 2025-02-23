@@ -19,6 +19,7 @@
 
 ## Decisions
 
+- Which is best? `uv tool add Nikola[extras]` or `uv pip install "Nikola[extras]" `?
 - Decide how to intro latecomers
 - Longer rotations (5 mins now)?
 - Why Static pages: 
