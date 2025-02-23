@@ -4,7 +4,7 @@
 .. tags: tutorial, ensemble coding, python
 .. category: 
 .. link: 
-.. description: The first post of this project.
+.. description: An initial post describing this project.
 .. type: text
 
 This is the first paragraph is the initial post of the project.
