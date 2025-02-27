@@ -13,6 +13,7 @@ the [tutorial on building a page instead of a blog](https://getnikola.com/creati
 [x]  Edit `conf.py` for github pages deployment [gh-pages](https://getnikola.com/handbook.html#deploying-to-github)
 [x] Deploy to the project-specific [github pages](https://blaisep.github.io/project-page-template/)
 [ ] Initialize project page [Project Page](https://getnikola.com/creating-a-site-not-a-blog-with-nikola.html)
+[ ] Build/Deploy using Github Actions.
 [ ] Pick a project page theme
 [ ] Add theme info to `conf.py`
 
