@@ -7,4 +7,6 @@
 .. description: Home page for the template.
 .. type: text
 
-Write your page here.
+This is the Homepage. We're testing this page on March 6th.
+
+The source for this page is mysite/pages/a-project-page.rst
