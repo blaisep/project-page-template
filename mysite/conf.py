@@ -401,12 +401,12 @@ COMPILERS = {
 # default is no description. The value is used in the meta description
 # and displayed underneath the tag list or index page’s title.
 # (translatable)
-# TAG_DESCRIPTIONS = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-blog posts about blogging.",
-#        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
-#    },
-# }
+TAG_DESCRIPTIONS = {
+   DEFAULT_LANG: {
+       "decisions": "Memorialize choices and decisions. Less formal than Architechtural Decision Records (ADRs)",
+       "features": "Describe and propose enhancements or capabilities"
+   },
+}
 
 # Set special titles for tag pages. The default is "Posts about TAG".
 # (translatable)
