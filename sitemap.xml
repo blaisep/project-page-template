@@ -6,47 +6,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://blaisep.github.io/</loc>
-  <lastmod>2025-02-23T19:08:00Z</lastmod>
+  <loc>https://blaisep.github.io/project-page-template/</loc>
+  <lastmod>2025-03-14T04:14:00Z</lastmod>
  </url>
  <url>
-  <loc>https://blaisep.github.io/2025/</loc>
-  <lastmod>2025-02-23T19:08:00Z</lastmod>
+  <loc>https://blaisep.github.io/project-page-template/archive.html</loc>
+  <lastmod>2025-03-14T04:14:00Z</lastmod>
  </url>
  <url>
-  <loc>https://blaisep.github.io/archive.html</loc>
-  <lastmod>2025-02-23T19:08:00Z</lastmod>
+  <loc>https://blaisep.github.io/project-page-template/blog/</loc>
+  <lastmod>2025-03-14T04:14:00Z</lastmod>
  </url>
  <url>
-  <loc>https://blaisep.github.io/categories/</loc>
-  <lastmod>2025-02-23T19:18:00Z</lastmod>
+  <loc>https://blaisep.github.io/project-page-template/categories/</loc>
+  <lastmod>2025-03-14T03:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://blaisep.github.io/categories/ensemble-coding/</loc>
-  <lastmod>2025-02-23T19:18:00Z</lastmod>
+  <loc>https://blaisep.github.io/project-page-template/galleries/</loc>
+  <lastmod>2025-03-14T03:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://blaisep.github.io/categories/python/</loc>
-  <lastmod>2025-02-23T19:18:00Z</lastmod>
+  <loc>https://blaisep.github.io/project-page-template/listings/</loc>
+  <lastmod>2025-03-14T03:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://blaisep.github.io/categories/tutorial/</loc>
-  <lastmod>2025-02-23T19:18:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blaisep.github.io/galleries/</loc>
-  <lastmod>2025-02-20T19:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blaisep.github.io/listings/</loc>
-  <lastmod>2025-02-20T19:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blaisep.github.io/pages/the-project-page/</loc>
-  <lastmod>2025-02-23T19:47:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blaisep.github.io/posts/about-this-project/</loc>
-  <lastmod>2025-02-23T19:08:00Z</lastmod>
+  <loc>https://blaisep.github.io/project-page-template/pages/</loc>
+  <lastmod>2025-03-14T03:57:00Z</lastmod>
  </url>
 </urlset>
