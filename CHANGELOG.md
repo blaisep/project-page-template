@@ -1,0 +1,1 @@
+CHANGE Theme settings (see https://themes.getnikola.com/)
