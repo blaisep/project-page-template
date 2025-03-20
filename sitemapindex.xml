@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://blaisep.github.io/galleries/rss.xml</loc>
-  <lastmod>2025-03-20T19:02:00Z</lastmod>
+  <lastmod>2025-03-20T19:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://blaisep.github.io/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://blaisep.github.io/sitemap.xml</loc>
-  <lastmod>2025-03-20T19:02:00Z</lastmod>
+  <lastmod>2025-03-20T19:04:00Z</lastmod>
  </sitemap>
 </sitemapindex>
