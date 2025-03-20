@@ -6,15 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://blaisep.github.io/project-page-template/galleries/rss.xml</loc>
-  <lastmod>2025-03-14T04:14:00Z</lastmod>
+  <loc>https://blaisep.github.io/categories/ensemble-coding.xml</loc>
+  <lastmod>2025-02-23T19:47:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://blaisep.github.io/project-page-template/rss.xml</loc>
-  <lastmod>2025-03-14T03:57:00Z</lastmod>
+  <loc>https://blaisep.github.io/categories/python.xml</loc>
+  <lastmod>2025-02-23T19:47:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://blaisep.github.io/project-page-template/sitemap.xml</loc>
-  <lastmod>2025-03-14T04:14:00Z</lastmod>
+  <loc>https://blaisep.github.io/categories/tutorial.xml</loc>
+  <lastmod>2025-02-23T19:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://blaisep.github.io/galleries/rss.xml</loc>
+  <lastmod>2025-03-20T18:21:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://blaisep.github.io/rss.xml</loc>
+  <lastmod>2025-02-27T19:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://blaisep.github.io/sitemap.xml</loc>
+  <lastmod>2025-03-20T18:21:00Z</lastmod>
  </sitemap>
 </sitemapindex>
